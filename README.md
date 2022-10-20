@@ -1,4 +1,4 @@
-# GTA-San-Andreas
+# GTA-San-Andreas-Remastered
 MODS
 
 CLEO + ModLoader + ASI Loader: https://www.mediafire.com/file/zns893e9pdrqcd8/CLEO_%252B_ModLoader_%252B_ASI_Loader_para_GTA_San_Andreas.rar/file
@@ -10,6 +10,8 @@ MixSets: https://www.mixmods.com.br/2022/03/sa-mixsets/
 Widescreen Fix: https://github.com/ThirteenAG/WidescreenFixesPack/releases/tag/gtasa
 
 GInput: https://www.mixmods.com.br/2021/01/iii-vc-sa-ginput-melhor-suporte-para-controles/
+
+Cheat Menu by Grinch_ v3.2: https://www.mixmods.com.br/2022/03/cheat-menu-by-grinch/
 
 
 MODS
@@ -57,6 +59,8 @@ Peds Buy Food: https://www.mixmods.com.br/2020/07/peds-buy-food-pedestres-compra
 Ambient Taxi: https://www.mixmods.com.br/2017/12/ambient-taxi-taxi-pegando-passageiros/
 
 Faster Clothes Changes: https://www.mixmods.com.br/2020/08/faster-clothes-changes-trocar-de-roupa-rapidamente/
+
+24/7 Robbery: https://www.mixmods.com.br/2019/08/24-7-robbery-roubar-lojas/
 
 GPS Line Mod: https://www.mixmods.com.br/2022/02/iii-vc-sa-gps-line-mod-radar-minimap/
 
