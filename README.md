@@ -22,6 +22,8 @@ Proper Fixes: https://www.mixmods.com.br/2022/08/sa-proper-fixes/
 
 Project Immerse-Yourself: https://www.mixmods.com.br/2022/01/project-immerse-yourself-prelight-melhorado/
 
+Improved and Fixed Original Vegetation: https://www.mixmods.com.br/2021/04/improved-and-fixed-original-vegetation-arvores-mais-redondas/
+
 Proper Vehicles Retex: https://www.mixmods.com.br/2022/04/sa-sade-proper-vehicles-retex/
 
 Revamped Vehicles Project: https://gtaforums.com/topic/981977-rvp-revamped-vehicles-project/
@@ -43,6 +45,8 @@ Ped Tweaks: https://www.mixmods.com.br/2021/09/sa-ped-tweaks-restaurar-policiais
 PedSkills: https://www.mixmods.com.br/2022/08/pedskills/
 
 Animation Fix + M4k3 Anims: https://www.mixmods.com.br/2022/02/animation-fix-v1-5-corrigir-bugs-de-animacoes/
+
+Mod Ragdoll Bullet Physics + Fix: https://www.mixmods.com.br/2021/09/mod-ragdoll-bullet-physics-fix-fisica-realista/
 
 CopsDriveBy: https://www.mixmods.com.br/2018/07/copsdriveby-policiais-atirando-do-carro/
 
@@ -75,6 +79,8 @@ Combat FX Upgrade: https://www.mixmods.com.br/2020/03/combat-fx-upgrade-novos-ef
 IMFX: https://www.mixmods.com.br/2018/09/imfx-improved-fx/
 
 Enhanced Classic Graphics: https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/
+
+Project2DFX: https://www.mixmods.com.br/2020/02/sa-project2dfx/
 
 Uncompressed SFX Pack: https://www.mixmods.com.br/2020/07/uncompressed-sfx-pack-sons-originais-em-hd/
 
